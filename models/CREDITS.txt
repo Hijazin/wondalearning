@@ -1,0 +1,7 @@
+Third-party models (all CC0 1.0 / public domain, no attribution required; credited with thanks):
+- Triceratops, Stegosaurus, Apatosaurus, T. rex (the Spinosaurus is derived from it: longer snout + added sail): "Animated Dinosaur Pack" by Quaternius — https://quaternius.com/packs/animateddinosaurs.html (converted FBX→glTF)
+- Trees, ferns, bushes, grass, rocks (nature.gltf.json): "Stylized Nature MegaKit [Standard]" by Quaternius — https://quaternius.itch.io/stylized-nature-megakit (merged, textures resized to 512px WebP)
+- Cars, trucks, cones (cars_kit.gltf.json): "Car Kit" by Kenney — https://kenney.nl/assets/car-kit
+- Buildings, houses, street furniture, racing props (city_kit.gltf.json): Kenney "City Kit (Commercial)", "City Kit (Suburban)", "City Kit (Roads)" and "Racing Kit" — https://kenney.nl/assets
+- Workshop, factory and industrial props (industry_kit.gltf.json): Kenney "City Kit (Industrial)", "Factory Kit" and "Survival Kit" — https://kenney.nl/assets/city-kit-industrial · https://kenney.nl/assets/factory-kit · https://kenney.nl/assets/survival-kit
+- Mechanic and customer characters (mechanic.gltf.json, customer.gltf.json): Kenney "Mini Characters" (animated) — https://kenney.nl/assets/mini-characters
